@@ -22,7 +22,7 @@ To run a number of configurations, to use for model selection later, set the req
 
 Once the pickle file is generated for outputs of all configurations, use model selection to select models. 
 
-If you use "--aggergation=both", make sure that both files "GIN_MMD_<dataset>_<seed>.pkl" and "GIN_Mean_<dataset>_<seed>.pkl" have been generated in the output folder. Here are two examples:
+If you use "--aggergation=both", make sure that both files "GIN_MMD_{dataset}_{seed}.pkl" and "GIN_Mean_{dataset}_{seed}.pkl" have been generated in the output folder. Here are two examples:
 
 ```
 
