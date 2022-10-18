@@ -1,7 +1,7 @@
 
 # Source Code for GLAM (ICDM 2022 Short)
 
-Author Credit: Saurabh Sawlani
+Author: Saurabh Sawlani
 
 Prerequisites: torch, torch-geometric
 
